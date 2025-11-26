@@ -1,0 +1,11 @@
+{
+  "name": "Universal Proxy",
+  "version": "1.0",
+  "description": "System-wide HTTP/SOCKS proxy with authentication",
+  "author": "Your Name",
+  "license": "MIT",
+  "versionCode": 1,
+  "package": "com.yourname.universalproxy",
+  "minApi": 35,
+  "scope": []
+}
